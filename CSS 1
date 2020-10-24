@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: black;
+}
+h1 {
+color: gold;
+text-align: center;
+font-family: algerian;
+}
+p {
+font-family: century gothic;
+font-size: 20px;
+color: gold;
+}
+</style>
+</head>
+<body>
+<h1>INTRODUCTION</h1>
+<p>Nama: Diego Ryan Adam</p>
+<p>NRP: 05211940000130.</p>
+</body>
+</html>
